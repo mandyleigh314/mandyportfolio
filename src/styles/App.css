@@ -1,0 +1,30 @@
+body {
+  font-family: 'Neucha', cursive;
+}
+
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.navbarul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  border-bottom: 3px solid gray;
+}
+
+.navi {
+  padding: 10px;
+  margin: 10px;
+}
+
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+  border-top: 2px solid gray;
+  margin: 5px;
+  padding: 5px;
+  justify-content: flex-end;
+}
